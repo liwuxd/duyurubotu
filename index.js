@@ -68,4 +68,4 @@ app.listen(port, () => {
 });
 
 // Botu başlat
-client.login('MTM3MTg5NTk2ODQzNzM3NTA2Ng.GcdkOL.jA278zlZ5fIfasq7hz7006Kf17hE3zCIHMAv_I'); // Buraya bot token'ınızı ekleyin
+client.login('process.env.token'); // Buraya bot token'ınızı ekleyin
