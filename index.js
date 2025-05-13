@@ -68,4 +68,4 @@ app.listen(port, () => {
 });
 
 // Botu başlat
-client.login('process.env.token'); // Buraya bot token'ınızı ekleyin
+client.login(process.env.token); // Buraya bot token'ınızı ekleyin
